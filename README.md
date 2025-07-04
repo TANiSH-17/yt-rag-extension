@@ -67,7 +67,7 @@ When the user queries something, the system:
 
 
 
-<img width="836" alt="image" src="https://github.com/user-attachments/assets/2dfff342-2e85-44e3-85db-84542461f6ac" />
+
 
 ## 🔍 How it works
 
@@ -98,6 +98,8 @@ When the user queries something, the system:
 ### Chrome Extension (frontend)
 - Standard Chrome Extension APIs
 - Vanilla JS/HTML/CSS
+
+<img width="836" alt="image" src="https://github.com/user-attachments/assets/2dfff342-2e85-44e3-85db-84542461f6ac" />
 
 ---
 
