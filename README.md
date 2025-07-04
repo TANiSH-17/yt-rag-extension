@@ -43,8 +43,9 @@ When the user queries something, the system:
 ![Screenshot 2025-07-04 at 5 27 00 PM](https://github.com/user-attachments/assets/aeb432e7-ae4b-45d5-94c4-cb08e1651665)
 
 ![Screenshot 2025-07-04 at 5 27 04 PM](https://github.com/user-attachments/assets/612bb05a-7206-4ebd-8854-e5931d2f41b6)
-![Screenshot 2025-07-04 at 5 27 34 PM](https://github.com/user-attachments/assets/30c03481-246f-4be4-ad6c-2bb7a8b45e7b)
+
 ![Screenshot 2025-07-04 at 5 26 12 PM](https://github.com/user-attachments/assets/54555924-7837-4da8-8f27-2e7a89aff14d)
+![Screenshot 2025-07-04 at 5 27 34 PM](https://github.com/user-attachments/assets/30c03481-246f-4be4-ad6c-2bb7a8b45e7b)
 ![Screenshot 2025-07-04 at 5 27 59 PM](https://github.com/user-attachments/assets/b1c2ab27-9156-46ff-a77c-f9f14ff8eb7f)
 
 
