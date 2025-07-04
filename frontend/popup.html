@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YouTube Summarizer</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div class="container">
+        <h1> Chat with Video </h1>
+
+        <div class="input-section">
+            <label for="youtubeUrl">Video URL:</label>
+            <input type="text" id="youtubeUrl" placeholder="Auto-filled or paste URL">
+            <button id="getCurrentUrlButton">Get Current URL</button>
+        </div>
+
+        <div class="input-section">
+            <label for="queryInput">Your Question:</label>
+            <input type="text" id="queryInput" placeholder="Ask a question about this video">
+        </div>
+
+        <button id="askButton">Ask </button>
+
+        <div class="output-section">
+            <h2>Answer:</h2> 
+            <div id="answerOutput">
+                <p>Your answer will appear here...</p>
+            </div>
+            <div id="loadingIndicator" class="hidden">
+                <p>Processing request, please wait...</p>
+            </div>
+            <div id="errorIndicator" class="hidden">
+                <p class="error-message"></p>
+            </div>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
