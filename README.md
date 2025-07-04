@@ -114,10 +114,11 @@ See the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👨‍💻 Author
-👋 Developed by **[Tanish](https://github.com/TANiSH-17)**  
+## 📬 Contact
 
-If you like this project, please ⭐️ the repository and share it!
+**Tanish Kumar**  
+GitHub: [@TANiSH-17](https://github.com/TANiSH-17)  
+Email: tanishkskr@gmail.com
 
 ---
 
