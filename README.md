@@ -68,17 +68,18 @@ When the user queries something, the system:
 
 <img width="836" alt="image" src="https://github.com/user-attachments/assets/2dfff342-2e85-44e3-85db-84542461f6ac" />
 
+## 🔍 How it works
 
-## 🔗 Usage
-1️⃣ Navigate to a **YouTube video page**.  
+✅ **Step 1:** Get transcript → using `youtube-transcript-api`.  
 
-2️⃣ Click on the **extension icon** in the Chrome toolbar.  
+✅ **Step 2:** Split transcript → using `RecursiveCharacterTextSplitter`.  
 
-3️⃣ Type your **question** about the video in the popup.  
+✅ **Step 3:** Embed chunks → using `GoogleGenerativeAIEmbeddings`.  
 
-4️⃣ The extension sends the **video URL & question** to the backend.  
+✅ **Step 4:** Store & retrieve → using `FAISS`.  
 
-5️⃣ The backend fetches the **transcript**, processes it, and sends the **answer** back to the popup.
+✅ **Step 5:** Compose answer → using `ChatGoogleGenerativeAI`.
+
 
 
 
