@@ -54,49 +54,64 @@ When the user queries something, the system:
 
 ---
 
-## 🔧 Installation
-
-### 1️⃣ Clone the repo
-
-git clone https://github.com/TANiSH-17/yt-rag-extension.git
-cd yt-rag-extension
-
 \🔗 Usage
 1️⃣ Navigate to a YouTube video page.
+
 2️⃣ Click on the extension icon.
+
 3️⃣ Type your question about the video.
+
 4️⃣ The extension sends the video URL & question to the backend.
+
 5️⃣ The backend fetches transcript, processes it, and sends the answer back.
+
 
 <img width="836" alt="image" src="https://github.com/user-attachments/assets/2dfff342-2e85-44e3-85db-84542461f6ac" />
 
 🔍 How it works
+
 ✅ Step 1: Get transcript → using youtube-transcript-api.
+
 ✅ Step 2: Split transcript → using RecursiveCharacterTextSplitter.
+
 ✅ Step 3: Embed chunks → using GoogleGenerativeAIEmbeddings.
+
 ✅ Step 4: Store & retrieve → using FAISS.
+
 ✅ Step 5: Compose answer → using ChatGoogleGenerativeAI.
 
+
 💻 Dependencies
+
 Python (backend)
+
 Flask
+
 
 Flask-CORS
 
+
 dotenv
+
 
 youtube-transcript-api
 
+
 langchain
 
+
 langchain-google-genai
+
 
 faiss-cpu (or faiss)
 
 Chrome Extension (frontend)
+
 Standard Chrome Extension APIs
 
+
 Vanilla JS/HTML/CSS
+
 
 📋 To-Do / Improvements
  Add support for multi-lingual transcripts.
