@@ -81,66 +81,56 @@ When the user queries something, the system:
 ✅ Step 5: Compose answer → using ChatGoogleGenerativeAI.
 
 
-💻 Dependencies
+## 💻 Dependencies
 
-Python (backend)
+### Python (backend)
+- Flask
+- Flask-CORS
+- dotenv
+- youtube-transcript-api
+- langchain
+- langchain-google-genai
+- faiss-cpu (or faiss)
 
-Flask
+### Chrome Extension (frontend)
+- Standard Chrome Extension APIs
+- Vanilla JS/HTML/CSS
 
+---
 
-Flask-CORS
+## 📋 To-Do / Improvements
+- [ ] Add support for multi-lingual transcripts.
+- [ ] Better error handling when transcripts are disabled.
+- [ ] Cache embeddings for previously processed videos.
+- [ ] Add tests & CI/CD pipeline.
+- [ ] Deploy backend to cloud (e.g., GCP, AWS, or Railway).
+- [ ] UI polish and responsiveness.
 
+---
 
-dotenv
+## 📝 License
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
+---
 
-youtube-transcript-api
-
-
-langchain
-
-
-langchain-google-genai
-
-
-faiss-cpu (or faiss)
-
-Chrome Extension (frontend)
-
-Standard Chrome Extension APIs
-
-
-Vanilla JS/HTML/CSS
-
-
-📋 To-Do / Improvements
- Add support for multi-lingual transcripts.
-
- Better error handling when transcripts are disabled.
-
- Cache embeddings for previously processed videos.
-
- Add tests & CI/CD pipeline.
-
- Deploy backend to cloud (e.g., GCP, AWS, or Railway).
-
- UI polish and responsiveness.
-
- 📝 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-👨‍💻 Author
-👋 Developed by Tanish
+## 👨‍💻 Author
+👋 Developed by **[Tanish](https://github.com/TANiSH-17)**  
 
 If you like this project, please ⭐️ the repository and share it!
 
-📣 Contributing
-Pull requests are welcome!
-For major changes, please open an issue first to discuss what you would like to change.
+---
+
+## 📣 Contributing
+Pull requests are welcome!  
+For major changes, please open an issue first to discuss what you would like to change.  
 Don’t forget to update tests as appropriate.
 
-🌟 Support
-If you find this project helpful, consider giving it a ⭐️ on GitHub and sharing it with others!
+---
+
+## 🌟 Support
+If you find this project helpful, consider giving it a ⭐️ on [GitHub](https://github.com/TANiSH-17/yt-rag-extension) and sharing it with others!
+
 
 
 
