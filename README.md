@@ -19,7 +19,8 @@ When the user queries something, the system:
 ---
 
 ## 📂 Project Structure
-<img width="727" alt="image" src="https://github.com/user-attachments/assets/d6f549bb-9e2a-48cc-b1dd-1005861e6da4" />
+<img width="728" alt="image" src="https://github.com/user-attachments/assets/388476dd-b666-49d8-9974-a40163ab4dc7" />
+
 
 
 ---
