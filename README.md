@@ -53,17 +53,18 @@ When the user queries something, the system:
 
 
 ---
+## 🔗 Usage
 
-\🔗 Usage
-1️⃣ Navigate to a YouTube video page.
+1️⃣ Navigate to a **YouTube video page**.  
 
-2️⃣ Click on the extension icon.
+2️⃣ Click on the **extension icon** in the Chrome toolbar.  
 
-3️⃣ Type your question about the video.
+3️⃣ Type your **question** about the video in the popup.  
 
-4️⃣ The extension sends the video URL & question to the backend.
+4️⃣ The extension sends the **video URL & question** to the backend.  
 
-5️⃣ The backend fetches transcript, processes it, and sends the answer back.
+5️⃣ The backend fetches the **transcript**, processes it, and sends the **answer** back to the popup.
+
 
 
 <img width="836" alt="image" src="https://github.com/user-attachments/assets/2dfff342-2e85-44e3-85db-84542461f6ac" />
