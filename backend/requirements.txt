@@ -1,0 +1,8 @@
+Flask==3.0.3
+Flask-Cors==4.0.1
+youtube-transcript-api==0.6.2
+langchain # Allow pip to install the latest compatible version
+langchain-google-genai # Allow pip to install the latest compatible version
+langchain-community # Allow pip to install the latest compatible version
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
