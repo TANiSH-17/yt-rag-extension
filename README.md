@@ -1,4 +1,5 @@
 🎥 YouTube RAG Extension
+
 🔍 Retrieval-Augmented Generation (RAG) powered Chrome extension for querying YouTube video content with context-aware answers, using LangChain, Gemini, FAISS & Flask.
 
 🚀 Overview
